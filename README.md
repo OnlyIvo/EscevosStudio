@@ -8,8 +8,8 @@ EscevosStudio Launcher
 <H3>Este launcher se basa en ayudar a descargar los modpacks/versiones de los eventos creador por EscevosStudio</H3>
 <H3 align="center">¿Como descargarlo?<H3>
 
-| Plataforma | File |
-| --------- -| ---- |
+| Platform | File |
+| ---------| ---- |
 | Windows x64| `Escevos Studio Launcher-setup-1.0.0.exe` |
 | macOS x64  | PROXIMAMENTE |
 | macOS arm64| PROXIMAMENTE |
